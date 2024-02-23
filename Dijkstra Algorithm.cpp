@@ -1,6 +1,6 @@
 // GFG
 // Dijkstra Algorithm is used to find the shortest distance from the source node to all Nodes
-
+// It Can't be used for Negeative Cycles because It will go into Infinite Loop.
 // We Generally have 3 approaches:
 
 // 1. Using Queue.  -> This take more time than other Approaches.
